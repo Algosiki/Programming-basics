@@ -1,4 +1,3 @@
-#include <math.h>
 #include <ops.h>
 
 int calculateArea(Rectangle rect) {

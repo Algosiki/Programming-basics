@@ -20,7 +20,7 @@ int main() {
     }
 
     fclose(file);
-    printf("Файл успешно создан и заполнен.\n");
+    
 
     return 0;
 }

@@ -2,8 +2,7 @@
 #include <time.h>
 
 int main() {
-    FILE* file;
-    file = fopen("dates.txt", "w");
+    FILE* file = fopen("dates.txt", "w");
 
     time_t now;
     struct tm* date;
